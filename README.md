@@ -12,7 +12,7 @@ It is a **beginner-friendly electronics project** designed to help understand an
 ## Project in work
 
 
-[▶ Working of the project](demo.jpg)
+[▶ Working of the project](demo.jpeg)
 
 ---
 
