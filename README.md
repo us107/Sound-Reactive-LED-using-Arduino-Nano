@@ -9,10 +9,10 @@ It is a **beginner-friendly electronics project** designed to help understand an
 
 ---
 
-## 🎥 Demo Video
+## Project in work
 
 
-[▶ Watch Demo Video](demo.mp4)
+[▶ Working of the project](demo.jpg)
 
 ---
 
